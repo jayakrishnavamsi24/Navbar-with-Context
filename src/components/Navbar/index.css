@@ -41,6 +41,8 @@
     padding: 0px;
     background-color: transparent;
     border: none;
+    cursor: pointer;
+    outline: none;
 }
 
 .theme-btn > img {
