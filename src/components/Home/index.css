@@ -1,0 +1,31 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+
+.dark-bg-cont {
+  background-color: #000000;
+}
+
+.light-bg-cont {
+  background-color: #ffffff;
+}
+
+.home-img {
+  width: 150px;
+}
+
+.home-container > h1 {
+  margin-top: 0px;
+}
+
+.dark-h1 {
+  color: #ffffff;
+}
+
+.light-h1 {
+  color: #171f46;
+}
